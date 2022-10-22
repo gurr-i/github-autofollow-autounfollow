@@ -1,4 +1,4 @@
-
+//https://www.tampermonkey.net/
 (function () {
   "use strict";
 
